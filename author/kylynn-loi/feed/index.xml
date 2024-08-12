@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kylynn Loi &#8211; Ontoserver</title>
+	<atom:link href="/ontoserver-website/author/kylynn-loi/feed/" rel="self" type="application/rss+xml" />
+	<link>/ontoserver-website/author/kylynn-loi/</link>
+	<description>Fast Interoperable Terminology Server</description>
+	<lastBuildDate>Fri, 17 Nov 2023 01:59:18 +0000</lastBuildDate>
+	<language>en-AU</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://ontoserver-wp.csiro.au/wp-content/uploads/2021/10/OntoserverLogoSquare-100x100.png</url>
+	<title>Kylynn Loi &#8211; Ontoserver</title>
+	<link>/ontoserver-website/author/kylynn-loi/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Improving pharmacy services in NHS England with Ontoserver</title>
+		<link>/ontoserver-website/improving-pharmacy-services-in-nhs-england-with-ontoserver/</link>
+		
+		<dc:creator><![CDATA[Kylynn Loi]]></dc:creator>
+		<pubDate>Mon, 11 Sep 2023 07:19:58 +0000</pubDate>
+				<category><![CDATA[case study]]></category>
+		<category><![CDATA[casestudy]]></category>
+		<category><![CDATA[digital]]></category>
+		<category><![CDATA[dm+d]]></category>
+		<category><![CDATA[nhs]]></category>
+		<category><![CDATA[ontoserver]]></category>
+		<guid isPermaLink="false">https://ontoserver.csiro.au/site/?p=2434</guid>
+
+					<description><![CDATA[<p>WJP Software (WJPS) has used the NHS England Terminology Server, underpinned by Ontoserver to implement the NHS information Dictionary of [&#8230;]</p>
+<p>The post <a href="/ontoserver-website/improving-pharmacy-services-in-nhs-england-with-ontoserver/">Improving pharmacy services in NHS England with Ontoserver</a> appeared first on <a href="/ontoserver-website">Ontoserver</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>WJP Software (WJPS) has used the NHS England Terminology Server, underpinned by Ontoserver to implement the NHS information Dictionary of medicines and devices (dm+d)</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p><em>“Utilising the Terminology Server significantly decreased the development time, from a month to a couple of weeks.”</em></p>
+<cite>Bill Lush, Senior Terminology Specialist</cite></blockquote>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p>“<em>It makes our lives easier from a support point of view”</em></p>
+<cite>James Proctor, WJPS Managing Director</cite></blockquote>
+
+
+<figure class="wp-block-image size-large nba-caption-filter transcript__wrapper"><div class="transcript__content"><img fetchpriority="high" decoding="async" width="1024" height="308" alt="" class="wp-image-2435" src="https://ontoserver.csiro.au/site/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-1024x308.jpg" srcset="https://ontoserver-wp.csiro.au/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-1024x308.jpg 1024w, https://ontoserver-wp.csiro.au/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-300x90.jpg 300w, https://ontoserver-wp.csiro.au/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-768x231.jpg 768w, https://ontoserver-wp.csiro.au/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-1920x577.jpg 1920w, https://ontoserver-wp.csiro.au/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-600x180.jpg 600w, https://ontoserver-wp.csiro.au/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-250x75.jpg 250w, https://ontoserver-wp.csiro.au/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-450x135.jpg 450w, https://ontoserver-wp.csiro.au/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-750x225.jpg 750w, https://ontoserver-wp.csiro.au/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-385x116.jpg 385w, https://ontoserver-wp.csiro.au/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-577x173.jpg 577w, https://ontoserver-wp.csiro.au/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-770x231.jpg 770w, https://ontoserver-wp.csiro.au/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-1155x347.jpg 1155w, https://ontoserver-wp.csiro.au/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-1536x461.jpg 1536w, https://ontoserver-wp.csiro.au/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-2048x615.jpg 2048w, https://ontoserver-wp.csiro.au/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-150x45.jpg 150w, https://ontoserver-wp.csiro.au/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-350x105.jpg 350w" sizes="(max-width: 1024px) 100vw, 1024px" /></img></div></figure>
+
+<div  class="nba-block nba-csiro__column-grid wp-block-nba-csiro-column-grid" data-block-id="nba-csiro__column-grid__28ba0e14-ceaa-43ec-90e5-a425ec68a7f4__9f30cfe2763d655d091ec618725b43cd" data-block-type="nba-csiro__column-grid"><div class="nba-layout"><div class="section--transparent"><div  class="grid__container container__content"><div  class="grid"><div  class="col-1-3  "><div class="section--transparent column-block content__gutenberg">
+<h2 class="wp-block-heading">Who is WJP Software?</h2>
+
+<p>WJP Software (WJPS) is a small software development company established in 2004 and based in North Yorkshire. </p>
+
+<p>WJPS’s flagship products include the routine environmental monitoring software Microbiological Reporting System (MRS) in use across the NHS and private healthcare sector, and Environmental Water Testing (EWT), utilised by the Pathology Infection Control team at Leeds Teaching Hospitals NHS Trust to aid water quality testing at the organisation.</p>
+</div></div><div  class="col-1-3  "><div class="section--transparent column-block content__gutenberg">
+<h2 class="wp-block-heading">The Challenge</h2>
+
+<p>The NHS Pharmaceutical Aseptic Services Group (PASG) were struggling to capture consistent and accurate drugs data for the National Aseptic Error Reporting Scheme (NAERS) to support consistent analysis of the errors which were being reported. Aseptic units at organisations across the UK were using unstructured free text to enter and submit information.</p>
+
+<p> Free text information made it difficult to do essential analytics and meant that potential to improve patient outcomes was at risk of being lost due to missing data.</p>
+
+<p>Identifying and amending inconsistent data was time consuming</p>
+</div></div><div  class="col-1-3  "><div class="section--transparent column-block content__gutenberg">
+<h2 class="wp-block-heading">Outcomes</h2>
+
+<p>By using the NHS England Terminology Server, underpinned by Ontoserver, WJPS were able to access automatic updates to dm+d, keeping the system aligned with the latest information.</p>
+
+<p>The terminology server facilitated standardised data collection using dm+d which eliminated discrepancies and provided a clear view of errors and trends.</p>
+</div></div></div></div></div></div></div>
+
+
+<p>You can read more about this in the NHS England&#8217;s SNOMED CT case study &#8220;PASG and the NHS England Terminology Server&#8221;</p>
+
+
+<div  class="nba-block nba-csiro__card wp-block-nba-csiro-card" data-block-id="nba-csiro__card__a3915b03-c132-42fc-b540-147e527b0f85__8e354955eedaeda9e6e813607835fa6f" data-block-type="nba-csiro__card"><div  class="nba-layout"><div  class="card no-thumbnail grid__card item__1 section--gray-lighter"><div  class="card__container"><div  class="card__block"><a  href="https://nhsengland.kahootz.com/t_c_home/view?objectID=40443856" class="reversed"><h2  class="card__title h3 more-link">NHS England SNOMED CT Case Studies</h2></a></div></div></div></div></div>
+
+
+<p></p>
+<p>The post <a href="/ontoserver-website/improving-pharmacy-services-in-nhs-england-with-ontoserver/">Improving pharmacy services in NHS England with Ontoserver</a> appeared first on <a href="/ontoserver-website">Ontoserver</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Swiss eLogbook using Ontoserver and SNOMED CT</title>
+		<link>/ontoserver-website/swiss-elogbook-using-ontoserver-and-snomed-ct/</link>
+		
+		<dc:creator><![CDATA[Kylynn Loi]]></dc:creator>
+		<pubDate>Fri, 10 Jun 2022 01:48:33 +0000</pubDate>
+				<category><![CDATA[case study]]></category>
+		<guid isPermaLink="false">https://ontoserver.csiro.au/site/?p=2262</guid>
+
+					<description><![CDATA[<p>The Swiss Institute for Medical Education in Switzerland, has used Ontoserver for their eLogbook for trainees &#8220;Ontoserver is the only [&#8230;]</p>
+<p>The post <a href="/ontoserver-website/swiss-elogbook-using-ontoserver-and-snomed-ct/">Swiss eLogbook using Ontoserver and SNOMED CT</a> appeared first on <a href="/ontoserver-website">Ontoserver</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>The Swiss Institute for Medical Education in Switzerland, has used Ontoserver for their eLogbook for trainees</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>&#8220;Ontoserver is the only product we looked at that was practical to use without having a big overhead by still packing a lot of usable functionality. It was easy to deploy and implement and additional tools like shrimp give it even more value.&#8221;</p></blockquote>
+
+
+<figure class="wp-block-image aligncenter size-large nba-caption-filter transcript__wrapper"><div class="transcript__content"><img decoding="async" width="1024" height="321" alt="" class="wp-image-2264" src="https://ontoserver.csiro.au/site/wp-content/uploads/2022/06/Untitled-2-1-1024x321.png" srcset="https://ontoserver-wp.csiro.au/wp-content/uploads/2022/06/Untitled-2-1-1024x321.png 1024w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/06/Untitled-2-1-300x94.png 300w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/06/Untitled-2-1-768x241.png 768w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/06/Untitled-2-1-1920x602.png 1920w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/06/Untitled-2-1-600x188.png 600w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/06/Untitled-2-1-250x78.png 250w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/06/Untitled-2-1-450x141.png 450w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/06/Untitled-2-1-750x235.png 750w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/06/Untitled-2-1-385x121.png 385w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/06/Untitled-2-1-577x181.png 577w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/06/Untitled-2-1-770x241.png 770w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/06/Untitled-2-1-1155x362.png 1155w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/06/Untitled-2-1-1536x481.png 1536w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/06/Untitled-2-1-2048x642.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></img></div></figure>
+
+<div  class="nba-block nba-csiro__column-grid wp-block-nba-csiro-column-grid" data-block-id="nba-csiro__column-grid__722eb167-4e1e-4ae1-a7c0-7d63185f0bf9__9f30cfe2763d655d091ec618725b43cd" data-block-type="nba-csiro__column-grid"><div class="nba-layout"><div class="section--transparent"><div  class="grid__container container__content"><div  class="grid"><div  class="col-1-3  "><div class="section--transparent column-block content__gutenberg">
+<h2 class="wp-block-heading">Who is The Swiss Institute for Medical Education?</h2>
+
+<p>The Swiss Institute for Medical Education (SIME) is the competence center in the field in Switzerland for the medical profession, authorities and postgraduate training centers. Bringing together the main actors and organisations from the sector, this autonomous institute of the Swiss Medical Association (FMH) guarantees doctors a postgraduate training and further education of high quality in more than 120 specialised fields.</p>
+</div></div><div  class="col-1-3  "><div class="section--transparent column-block content__gutenberg">
+<h2 class="wp-block-heading">The Challenge</h2>
+
+<p>Trainees are required to perform multiple procedures such as operations and/or examinations during their postgraduate training. Those procedures and all other requirements are defined as free text strings in legal documents by the respective professional society. If a trainee can prove that all the requirements in one of those documents have been met, he or she may apply for the corresponding medical specialist title.</p>
+
+<p>The eLogbook is the software which the trainees use to document all their procedures and apply for a medical specialist title. Trainees can change their postgraduate training track at any time during the training process, so it is important that the trainee can document the procedures in a coded way, which can then be mapped to the different strings defined in the respective legal document.</p>
+
+<p></p>
+</div></div><div  class="col-1-3  "><div class="section--transparent column-block content__gutenberg">
+<h2 class="wp-block-heading">Outcomes</h2>
+
+<p>By mapping the different strings of the procedures defined by the professional societies to SNOMED CT the SIME gives the trainees the possibility to document their procedures in a coded way. This allows the trainees to change their track without having to re-enter the already performed procedures.</p>
+
+<p>To achieve this the SIME developed the possibility to map the free text strings of the different procedures to one or multiple SNOMED CT concepts using ECL queries in the eLogbook. By approving the mapping, a specialty society can then allow its trainees to record their procedures using SNOMED CT and automatically transfer them to mapped procedures of other tracks.</p>
+
+<p>On supported postgraduate training tracks Trainees can enter their information in a coded manner using SNOMED CT and are able to switch tracks without the need to re-enter their performed procedures.</p>
+</div></div></div></div></div></div></div>
+
+
+<h2 class="wp-block-heading">Future plans</h2>
+
+
+
+<p>As a next step the mapping of the procedures has to be discussed and approved by the different specialty societies to allow the documentation using SNOMED CT. In the future new procedures should directly be defined by using SNOMED CT.</p>
+<p>The post <a href="/ontoserver-website/swiss-elogbook-using-ontoserver-and-snomed-ct/">Swiss eLogbook using Ontoserver and SNOMED CT</a> appeared first on <a href="/ontoserver-website">Ontoserver</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Nictiz providing a National Terminology Server for the Netherlands</title>
+		<link>/ontoserver-website/nictiz-national-terminology-server/</link>
+		
+		<dc:creator><![CDATA[Kylynn Loi]]></dc:creator>
+		<pubDate>Tue, 19 Apr 2022 01:42:58 +0000</pubDate>
+				<category><![CDATA[case study]]></category>
+		<guid isPermaLink="false">https://ontoserver.csiro.au/site/?p=2223</guid>
+
+					<description><![CDATA[<p>Nictiz has implemented the National Terminology Server for the Netherlands using Ontoserver to help software vendors and data scientists keep [&#8230;]</p>
+<p>The post <a href="/ontoserver-website/nictiz-national-terminology-server/">Nictiz providing a National Terminology Server for the Netherlands</a> appeared first on <a href="/ontoserver-website">Ontoserver</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Nictiz has implemented the National Terminology Server for the Netherlands using Ontoserver to help software vendors and data scientists keep up-to-date with national terminology content such as SNOMED CT and the Dutch lab code set.</p>
+
+
+<figure class="aligncenter size-large nba-caption-filter transcript__wrapper"><div class="transcript__content"><img decoding="async" width="1024" height="394" alt="" class="wp-image-2226" src="https://ontoserver.csiro.au/site/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-1024x394.jpg" srcset="https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-1024x394.jpg 1024w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-300x115.jpg 300w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-768x296.jpg 768w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-1920x739.jpg 1920w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-600x231.jpg 600w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-250x96.jpg 250w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-450x173.jpg 450w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-750x289.jpg 750w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-385x148.jpg 385w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-577x222.jpg 577w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-770x296.jpg 770w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-1155x444.jpg 1155w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-1536x591.jpg 1536w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-2048x788.jpg 2048w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-260x100.jpg 260w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-150x58.jpg 150w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-350x135.jpg 350w" sizes="(max-width: 1024px) 100vw, 1024px" /></img></div></figure>
+
+<div  class="nba-block nba-csiro__column-grid wp-block-nba-csiro-column-grid" data-block-id="nba-csiro__column-grid__59385ec2-1cf0-4999-abcd-b00bb03dc562__9f30cfe2763d655d091ec618725b43cd" data-block-type="nba-csiro__column-grid"><div class="nba-layout"><div class="section--transparent"><div  class="grid__container container__content"><div  class="grid"><div  class="col-1-3  "><div class="section--transparent column-block content__gutenberg">
+<h2 class="wp-block-heading">Who is Nictiz?</h2>
+
+<p><a href="https://www.nictiz.nl/">Nictiz</a> is the Dutch national competence centre for electronic exchange of health and care information. Nictiz maintains standards for the exchange of healthcare information and provides advice for use to healthcare organisations and software vendors. It is also the national release centre for SNOMED CT in the Netherlands.</p>
+<figure class="wp-block-image size-full nba-caption-filter transcript__wrapper"><div class="transcript__content"><img loading="lazy" decoding="async" width="549" height="120" alt="" class="wp-image-2224" src="https://ontoserver.csiro.au/site/wp-content/uploads/2022/04/Nictiz-logo-broad1.png" srcset="https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/Nictiz-logo-broad1.png 549w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/Nictiz-logo-broad1-300x66.png 300w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/Nictiz-logo-broad1-250x55.png 250w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/Nictiz-logo-broad1-450x98.png 450w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/Nictiz-logo-broad1-385x84.png 385w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/Nictiz-logo-broad1-150x33.png 150w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/Nictiz-logo-broad1-350x77.png 350w" sizes="(max-width: 549px) 100vw, 549px" /></img></div></figure></div></div><div  class="col-1-3  "><div class="section--transparent column-block content__gutenberg">
+<h2 class="wp-block-heading">The Challenge</h2>
+
+<p>As Nictiz needs to manage multiple code systems such as LOINC, SNOMED, GMDN&nbsp;, ICD10 and a whole host of national code systems, as well as a multiple value sets required for implementing healthcare information models correctly, Nictiz needed a way to centralise knowledge and allow end users to easily find and implement these resources.</p>
+
+<p>Nictiz wanted a way to reduce complexity for implementers and to make it easier for them to stay up to date as was required for their users.</p>
+</div></div><div  class="col-1-3  "><div class="section--transparent column-block content__gutenberg">
+<h2 class="wp-block-heading">Outcomes</h2>
+
+<p>Using Ontoserver as their <a href="https://www.nictiz.nl/standaardisatie/terminologiecentrum/nationale-terminologieserver/">terminology server</a>, Nictiz was able to provide</p>
+
+<ul class="wp-block-list"><li>a single point of context for users looking for the latest version of terminology/code systems and value sets. </li><li>a solution that reduces the threshold for implementation of terminology by using a single system (FHIR) and makes it easier for users to stay up to date regardless of the terminology update schedule</li></ul>
+</div></div></div></div></div></div></div>
+
+
+<h2 class="wp-block-heading">Future Plans</h2>
+
+
+
+<p>In the future, Nictiz plans to encourage end users to syndicate their own instances of Ontoserver, pulling content from Nictiz for the syndication service syndication feed. Nictiz also plans to add more code systems into Ontoserver.</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>&#8220;I think the largest advantage of Ontoserver over other products is that it is very simple. It is a FHIR compatible API, and therefore it’s very easy to integrate it with other services. For example, we can set up a pipeline for SNOMED that pulls to release files from a predetermined location, transforms it into FHIR, publishes it to a testing server, notifies us when it’s ready for testing and pushing it from a testing server to production is just as easy and requires minimal human intervention&#8221;</p></blockquote>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>&#8220;Centralising the knowledge and transforming resources to FHIR is an enormous timesaver for implementers. End users no longer have to sift through all the different release formats, and can instead focus on the terminology models of FHIR for all resources&#8211; reducing the threshold for implementation of terminology and making it easier for users to stay up to date.&#8221;</p></blockquote>
+<p>The post <a href="/ontoserver-website/nictiz-national-terminology-server/">Nictiz providing a National Terminology Server for the Netherlands</a> appeared first on <a href="/ontoserver-website">Ontoserver</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Australia&#8217;s National Clinical Terminology Service: A world first national implementation of Ontoserver</title>
+		<link>/ontoserver-website/national-clinical-terminology-service/</link>
+		
+		<dc:creator><![CDATA[Kylynn Loi]]></dc:creator>
+		<pubDate>Thu, 14 Apr 2022 01:57:39 +0000</pubDate>
+				<category><![CDATA[case study]]></category>
+		<guid isPermaLink="false">https://ontoserver.csiro.au/site/?p=2198</guid>
+
+					<description><![CDATA[<p>Ontoserver is the foundation of the Australian Digital Health Agency’s National Clinical Terminology Service (NCTS).&#160; “…we know that having meaningful [&#8230;]</p>
+<p>The post <a href="/ontoserver-website/national-clinical-terminology-service/">Australia&#8217;s National Clinical Terminology Service: A world first national implementation of Ontoserver</a> appeared first on <a href="/ontoserver-website">Ontoserver</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Ontoserver is the foundation of the Australian Digital Health Agency’s National Clinical Terminology Service (NCTS).&nbsp;</p>
+
+
+<figure class="aligncenter size-large nba-caption-filter transcript__wrapper"><div class="transcript__content"><img loading="lazy" decoding="async" width="1024" height="253" alt="" class="wp-image-2207" src="https://ontoserver.csiro.au/site/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-1024x253.jpg" srcset="https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-1024x253.jpg 1024w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-300x74.jpg 300w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-768x190.jpg 768w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-1920x475.jpg 1920w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-600x149.jpg 600w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-250x62.jpg 250w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-450x111.jpg 450w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-750x186.jpg 750w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-385x95.jpg 385w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-577x143.jpg 577w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-770x191.jpg 770w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-1155x286.jpg 1155w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-1536x380.jpg 1536w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-2048x507.jpg 2048w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-150x37.jpg 150w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-350x87.jpg 350w" sizes="(max-width: 1024px) 100vw, 1024px" /></img></div></figure>
+
+<div  class="nba-block nba-csiro__column-grid wp-block-nba-csiro-column-grid" data-block-id="nba-csiro__column-grid__79f9a24b-3e47-422e-9a0c-969b92781b22__9f30cfe2763d655d091ec618725b43cd" data-block-type="nba-csiro__column-grid"><div class="nba-layout"><div class="section--transparent"><div  class="grid__container container__content"><div  class="grid"><div  class="col-1-3  "><div class="section--transparent column-block content__gutenberg">
+<h2 class="wp-block-heading">What is the NCTS?&nbsp;</h2>
+
+<p>The NCTS provides state of the art terminology services that promote implementation and adoption of national clinical terminologies in Australia. The aim of the service is to support easier, consistent and more meaningful use of clinical terminologies in healthcare. &nbsp;</p>
+
+<p>As part of the NCTS a licensing agreement between the Australian Digital Health Agency and CSIRO enables public and private health sectors to access these tools for use in Australia. &nbsp;</p>
+</div></div><div  class="col-1-3  "><div class="section--transparent column-block content__gutenberg">
+<h2 class="wp-block-heading">The Challenge</h2>
+
+<p>Terminology is time consuming and expensive for software vendors to maintain, and just another thing to manage for adopting organisations.&nbsp;</p>
+
+<p>The NCTS wanted to increase uptake of clinical terminologies nationally. So, reducing the implementation barriers and complexity faced by software vendors and others in the healthcare was a priority.&nbsp;</p>
+
+<p>To do this they needed:&nbsp;</p>
+
+<ul class="wp-block-list"><li>World class model for national clinical terminology distribution&nbsp;</li><li>ONE centralised location for the distribution of clinical terminology&nbsp;</li><li>Growth in the adoption of clinical terminologies in Australia&nbsp;</li><li>Ability to distribute own terminologies as well those developed by others&nbsp;</li><li>Ability to support more customers with the provision of FHIR operations, a syndication service as well as traditional file formats&nbsp;</li></ul>
+</div></div><div  class="col-1-3  "><div class="section--transparent column-block content__gutenberg">
+<h2 class="wp-block-heading">The Outcome</h2>
+
+<p>Using Ontoserver NCTS improved adoption and use of clinical terminologies by reducing the complexities and efforts required by vendors in the implementation and maintenance of terminology.&nbsp;</p>
+
+<p>NCTS will increase use of the syndication service with people authenticating directly and will increase use of FHIR operations for querying.&nbsp;</p>
+</div></div></div></div></div></div></div>
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>“…we know that having meaningful transfer of health information between various clinical systems is key to the ongoing health outcomes of patients, and improving healthcare overall in Australia.”&nbsp;</p></blockquote>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>“There has really been growth in the adoption of terminologies in recent times. That’s evident in the uptake of Ontoserver by other licensees to help them manage their terminologies and set up syndication service the national terminology server.”&nbsp;</p></blockquote>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>“The CSIRO/NCTS collaboration is seen as a model for development by other SNOMED national release centres. The product produced was world class and has certainly drawn significant global attention.”&nbsp;</p></blockquote>
+
+
+<figure class="wp-block-image size-large nba-caption-filter transcript__wrapper"><div class="transcript__content"><img loading="lazy" decoding="async" width="1024" height="576" alt="" class="wp-image-2203" src="https://ontoserver.csiro.au/site/wp-content/uploads/2022/04/ncts3-1024x576.png" srcset="https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ncts3-1024x576.png 1024w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ncts3-300x169.png 300w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ncts3-768x432.png 768w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ncts3.png 1920w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ncts3-600x338.png 600w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ncts3-250x141.png 250w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ncts3-450x253.png 450w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ncts3-750x422.png 750w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ncts3-385x217.png 385w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ncts3-577x325.png 577w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ncts3-770x433.png 770w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ncts3-1155x650.png 1155w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ncts3-1536x864.png 1536w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ncts3-178x100.png 178w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ncts3-150x84.png 150w, https://ontoserver-wp.csiro.au/wp-content/uploads/2022/04/ncts3-350x197.png 350w" sizes="(max-width: 1024px) 100vw, 1024px" /></img></div></figure>
+
+<div  class="nba-block nba-csiro__column-grid wp-block-nba-csiro-column-grid" data-block-id="nba-csiro__column-grid__c789ebae-134a-454a-b5fe-cf9dce17cd05__9f30cfe2763d655d091ec618725b43cd" data-block-type="nba-csiro__column-grid"><div class="nba-layout"><div class="section--transparent"><div  class="grid__container container__content"><div  class="grid"><div  class="col-1-3  "></div><div  class="col-1-3  "></div><div  class="col-1-3  "><div class="section--transparent column-block content__gutenberg"><figure class="wp-block-image size-medium nba-caption-filter transcript__wrapper"><div class="transcript__content"><img loading="lazy" decoding="async" width="300" height="300" alt="2017 iAward" class="wp-image-385" src="https://ontoserver.csiro.au/site/wp-content/uploads/2021/11/Winner-QLD-300x300.png" srcset="https://ontoserver-wp.csiro.au/wp-content/uploads/2021/11/Winner-QLD-300x300.png 300w, https://ontoserver-wp.csiro.au/wp-content/uploads/2021/11/Winner-QLD-1024x1024.png 1024w, https://ontoserver-wp.csiro.au/wp-content/uploads/2021/11/Winner-QLD-150x150.png 150w, https://ontoserver-wp.csiro.au/wp-content/uploads/2021/11/Winner-QLD-768x768.png 768w, https://ontoserver-wp.csiro.au/wp-content/uploads/2021/11/Winner-QLD-1536x1536.png 1536w, https://ontoserver-wp.csiro.au/wp-content/uploads/2021/11/Winner-QLD-2048x2048.png 2048w, https://ontoserver-wp.csiro.au/wp-content/uploads/2021/11/Winner-QLD-256x256.png 256w, https://ontoserver-wp.csiro.au/wp-content/uploads/2021/11/Winner-QLD-384x384.png 384w, https://ontoserver-wp.csiro.au/wp-content/uploads/2021/11/Winner-QLD-512x512.png 512w, https://ontoserver-wp.csiro.au/wp-content/uploads/2021/11/Winner-QLD-100x100.png 100w, https://ontoserver-wp.csiro.au/wp-content/uploads/2021/11/Winner-QLD-250x250.png 250w, https://ontoserver-wp.csiro.au/wp-content/uploads/2021/11/Winner-QLD-350x350.png 350w" sizes="(max-width: 300px) 100vw, 300px" /></img></div></figure></div></div></div></div></div></div></div><p>The post <a href="/ontoserver-website/national-clinical-terminology-service/">Australia&#8217;s National Clinical Terminology Service: A world first national implementation of Ontoserver</a> appeared first on <a href="/ontoserver-website">Ontoserver</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
