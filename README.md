@@ -1,11 +1,25 @@
 # ontoserver-website
 
+Turns out nginx deployment fixes the gruesome html source code.
+
+
+```
+docker run -it --rm -d -p 80:80 --name web -v $pwd/site:/usr/share/nginx/html nginx
+```
+
+```
+docker login ghcr.io
+
 
 https://docs.simplystatic.com/article/72-how-to-use-the-debugging-mode
 
 https://www.docker.com/blog/how-to-use-the-official-nginx-docker-image/
 
+https://octopus.com/blog/using-nginx-docker-image
+
 https://learn.microsoft.com/en-us/azure/container-instances/container-instances-github-action
+
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic
 
 
 Some updates:
