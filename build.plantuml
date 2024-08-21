@@ -1,0 +1,36 @@
+@startuml
+
+actor Dion
+
+boundary WordPress as WP
+Dion -> WP : edit
+boundary SimplyStatic as SS
+Dion -> SS : publish
+database "Git\nStaging" as GH_Stage_Repo
+SS -> GH_Stage_Repo : commit
+participant "Github\nPages" as GH_Stage_Page
+GH_Stage_Repo -> GH_Stage_Page : publish
+database "Git\nPublishing" as GH_DevOps_Repo
+SS -> GH_DevOps_Repo : published
+create Issue
+GH_DevOps_Repo -> Issue
+create Branch
+
+GH_DevOps_Repo -> Branch
+GH_DevOps_Repo -> GH_DevOps_Repo : post issue created
+Branch -> Branch : remove subdirectory
+Branch -> Branch : cleanup HTML
+Dion -> Issue : edit
+Dion -> GH_Stage_Page : view
+Dion -> Branch : edit metadata
+Dion -> MergeRequest
+actor Michael
+Michael -> MergeRequest : view
+Michael -> Branch : merge
+control "Github\nActions" as GithubActions
+Branch -> GithubActions: onPush
+GithubActions -> Branch : read
+GithubActions -> Blob : sync
+GithubActions -> FrontDoor : refresh
+
+@enduml 

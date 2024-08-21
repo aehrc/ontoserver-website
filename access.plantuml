@@ -1,0 +1,7 @@
+@startdot
+digraph x {
+SS -> REV_PROXY [label="real"]
+SS -> SITE [label="assume"]
+REV_PROXY -> IMMUTABLE_CONTENT
+}
+@enddot
