@@ -10,7 +10,7 @@
 <channel>
 	<title>Ontoserver</title>
 	<atom:link href="https://ontoserver.csiro.au/feed/?simply_static_page=15787" rel="self" type="application/rss+xml" />
-	<link>/ontoserver-website/</link>
+	<link>//</link>
 	<description>Fast Interoperable Terminology Server</description>
 	<lastBuildDate>Fri, 17 Nov 2023 01:59:18 +0000</lastBuildDate>
 	<language>en-AU</language>
@@ -21,15 +21,15 @@
 	
 
 <image>
-	<url>/ontoserver-website/wp-content/uploads/2021/10/OntoserverLogoSquare-100x100.png</url>
+	<url>//wp-content/uploads/2021/10/OntoserverLogoSquare-100x100.png</url>
 	<title>Ontoserver</title>
-	<link>/ontoserver-website/</link>
+	<link>//</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Improving pharmacy services in NHS England with Ontoserver</title>
-		<link>/ontoserver-website/improving-pharmacy-services-in-nhs-england-with-ontoserver/</link>
+		<link>//improving-pharmacy-services-in-nhs-england-with-ontoserver/</link>
 		
 		<dc:creator><![CDATA[Kylynn Loi]]></dc:creator>
 		<pubDate>Mon, 11 Sep 2023 07:19:58 +0000</pubDate>
@@ -39,10 +39,10 @@
 		<category><![CDATA[dm+d]]></category>
 		<category><![CDATA[nhs]]></category>
 		<category><![CDATA[ontoserver]]></category>
-		<guid isPermaLink="false">/ontoserver-website/?p=2434</guid>
+		<guid isPermaLink="false">//?p=2434</guid>
 
 					<description><![CDATA[<p>WJP Software (WJPS) has used the NHS England Terminology Server, underpinned by Ontoserver to implement the NHS information Dictionary of [&#8230;]</p>
-<p>The post <a href="/ontoserver-website/improving-pharmacy-services-in-nhs-england-with-ontoserver/">Improving pharmacy services in NHS England with Ontoserver</a> appeared first on <a href="/ontoserver-website">Ontoserver</a>.</p>
+<p>The post <a href="//improving-pharmacy-services-in-nhs-england-with-ontoserver/">Improving pharmacy services in NHS England with Ontoserver</a> appeared first on <a href="/">Ontoserver</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>WJP Software (WJPS) has used the NHS England Terminology Server, underpinned by Ontoserver to implement the NHS information Dictionary of medicines and devices (dm+d)</p>
@@ -60,7 +60,7 @@
 <cite>James Proctor, WJPS Managing Director</cite></blockquote>
 
 
-<figure class="wp-block-image size-large nba-caption-filter transcript__wrapper"><div class="transcript__content"><img fetchpriority="high" decoding="async" width="1024" height="308" alt="" class="wp-image-2435" src="/ontoserver-website/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-1024x308.jpg" srcset="/ontoserver-website/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-1024x308.jpg 1024w, /ontoserver-website/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-300x90.jpg 300w, /ontoserver-website/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-768x231.jpg 768w, /ontoserver-website/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-1920x577.jpg 1920w, /ontoserver-website/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-600x180.jpg 600w, /ontoserver-website/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-250x75.jpg 250w, /ontoserver-website/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-450x135.jpg 450w, /ontoserver-website/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-750x225.jpg 750w, /ontoserver-website/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-385x116.jpg 385w, /ontoserver-website/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-577x173.jpg 577w, /ontoserver-website/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-770x231.jpg 770w, /ontoserver-website/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-1155x347.jpg 1155w, /ontoserver-website/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-1536x461.jpg 1536w, /ontoserver-website/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-2048x615.jpg 2048w, /ontoserver-website/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-150x45.jpg 150w, /ontoserver-website/wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-350x105.jpg 350w" sizes="(max-width: 1024px) 100vw, 1024px" /></img></div></figure>
+<figure class="wp-block-image size-large nba-caption-filter transcript__wrapper"><div class="transcript__content"><img fetchpriority="high" decoding="async" width="1024" height="308" alt="" class="wp-image-2435" src="//wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-1024x308.jpg" srcset="//wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-1024x308.jpg 1024w, //wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-300x90.jpg 300w, //wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-768x231.jpg 768w, //wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-1920x577.jpg 1920w, //wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-600x180.jpg 600w, //wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-250x75.jpg 250w, //wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-450x135.jpg 450w, //wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-750x225.jpg 750w, //wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-385x116.jpg 385w, //wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-577x173.jpg 577w, //wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-770x231.jpg 770w, //wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-1155x347.jpg 1155w, //wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-1536x461.jpg 1536w, //wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-2048x615.jpg 2048w, //wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-150x45.jpg 150w, //wp-content/uploads/2023/09/volodymyr-hryshchenko-m1Hq4ibP9rc-unsplash-350x105.jpg 350w" sizes="(max-width: 1024px) 100vw, 1024px" /></img></div></figure>
 
 <div  class="nba-block nba-csiro__column-grid wp-block-nba-csiro-column-grid" data-block-id="nba-csiro__column-grid__3b4ae705-e49b-4eaa-a7f1-19d09c526594__9f30cfe2763d655d091ec618725b43cd" data-block-type="nba-csiro__column-grid"><div class="nba-layout"><div class="section--transparent"><div  class="grid__container container__content"><div  class="grid"><div  class="col-1-3  "><div class="section--transparent column-block content__gutenberg">
 <h2 class="wp-block-heading">Who is WJP Software?</h2>
@@ -92,7 +92,7 @@
 
 
 <p></p>
-<p>The post <a href="/ontoserver-website/improving-pharmacy-services-in-nhs-england-with-ontoserver/">Improving pharmacy services in NHS England with Ontoserver</a> appeared first on <a href="/ontoserver-website">Ontoserver</a>.</p>
+<p>The post <a href="//improving-pharmacy-services-in-nhs-england-with-ontoserver/">Improving pharmacy services in NHS England with Ontoserver</a> appeared first on <a href="/">Ontoserver</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -100,15 +100,15 @@
 			</item>
 		<item>
 		<title>Swiss eLogbook using Ontoserver and SNOMED CT</title>
-		<link>/ontoserver-website/swiss-elogbook-using-ontoserver-and-snomed-ct/</link>
+		<link>//swiss-elogbook-using-ontoserver-and-snomed-ct/</link>
 		
 		<dc:creator><![CDATA[Kylynn Loi]]></dc:creator>
 		<pubDate>Fri, 10 Jun 2022 01:48:33 +0000</pubDate>
 				<category><![CDATA[case study]]></category>
-		<guid isPermaLink="false">/ontoserver-website/?p=2262</guid>
+		<guid isPermaLink="false">//?p=2262</guid>
 
 					<description><![CDATA[<p>The Swiss Institute for Medical Education in Switzerland, has used Ontoserver for their eLogbook for trainees &#8220;Ontoserver is the only [&#8230;]</p>
-<p>The post <a href="/ontoserver-website/swiss-elogbook-using-ontoserver-and-snomed-ct/">Swiss eLogbook using Ontoserver and SNOMED CT</a> appeared first on <a href="/ontoserver-website">Ontoserver</a>.</p>
+<p>The post <a href="//swiss-elogbook-using-ontoserver-and-snomed-ct/">Swiss eLogbook using Ontoserver and SNOMED CT</a> appeared first on <a href="/">Ontoserver</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>The Swiss Institute for Medical Education in Switzerland, has used Ontoserver for their eLogbook for trainees</p>
@@ -118,7 +118,7 @@
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>&#8220;Ontoserver is the only product we looked at that was practical to use without having a big overhead by still packing a lot of usable functionality. It was easy to deploy and implement and additional tools like shrimp give it even more value.&#8221;</p></blockquote>
 
 
-<figure class="wp-block-image aligncenter size-large nba-caption-filter transcript__wrapper"><div class="transcript__content"><img decoding="async" width="1024" height="321" alt="" class="wp-image-2264" src="/ontoserver-website/wp-content/uploads/2022/06/Untitled-2-1-1024x321.png" srcset="/ontoserver-website/wp-content/uploads/2022/06/Untitled-2-1-1024x321.png 1024w, /ontoserver-website/wp-content/uploads/2022/06/Untitled-2-1-300x94.png 300w, /ontoserver-website/wp-content/uploads/2022/06/Untitled-2-1-768x241.png 768w, /ontoserver-website/wp-content/uploads/2022/06/Untitled-2-1-1920x602.png 1920w, /ontoserver-website/wp-content/uploads/2022/06/Untitled-2-1-600x188.png 600w, /ontoserver-website/wp-content/uploads/2022/06/Untitled-2-1-250x78.png 250w, /ontoserver-website/wp-content/uploads/2022/06/Untitled-2-1-450x141.png 450w, /ontoserver-website/wp-content/uploads/2022/06/Untitled-2-1-750x235.png 750w, /ontoserver-website/wp-content/uploads/2022/06/Untitled-2-1-385x121.png 385w, /ontoserver-website/wp-content/uploads/2022/06/Untitled-2-1-577x181.png 577w, /ontoserver-website/wp-content/uploads/2022/06/Untitled-2-1-770x241.png 770w, /ontoserver-website/wp-content/uploads/2022/06/Untitled-2-1-1155x362.png 1155w, /ontoserver-website/wp-content/uploads/2022/06/Untitled-2-1-1536x481.png 1536w, /ontoserver-website/wp-content/uploads/2022/06/Untitled-2-1-2048x642.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></img></div></figure>
+<figure class="wp-block-image aligncenter size-large nba-caption-filter transcript__wrapper"><div class="transcript__content"><img decoding="async" width="1024" height="321" alt="" class="wp-image-2264" src="//wp-content/uploads/2022/06/Untitled-2-1-1024x321.png" srcset="//wp-content/uploads/2022/06/Untitled-2-1-1024x321.png 1024w, //wp-content/uploads/2022/06/Untitled-2-1-300x94.png 300w, //wp-content/uploads/2022/06/Untitled-2-1-768x241.png 768w, //wp-content/uploads/2022/06/Untitled-2-1-1920x602.png 1920w, //wp-content/uploads/2022/06/Untitled-2-1-600x188.png 600w, //wp-content/uploads/2022/06/Untitled-2-1-250x78.png 250w, //wp-content/uploads/2022/06/Untitled-2-1-450x141.png 450w, //wp-content/uploads/2022/06/Untitled-2-1-750x235.png 750w, //wp-content/uploads/2022/06/Untitled-2-1-385x121.png 385w, //wp-content/uploads/2022/06/Untitled-2-1-577x181.png 577w, //wp-content/uploads/2022/06/Untitled-2-1-770x241.png 770w, //wp-content/uploads/2022/06/Untitled-2-1-1155x362.png 1155w, //wp-content/uploads/2022/06/Untitled-2-1-1536x481.png 1536w, //wp-content/uploads/2022/06/Untitled-2-1-2048x642.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></img></div></figure>
 
 <div  class="nba-block nba-csiro__column-grid wp-block-nba-csiro-column-grid" data-block-id="nba-csiro__column-grid__597e53a7-17e6-43c8-9009-7432a6feaf27__9f30cfe2763d655d091ec618725b43cd" data-block-type="nba-csiro__column-grid"><div class="nba-layout"><div class="section--transparent"><div  class="grid__container container__content"><div  class="grid"><div  class="col-1-3  "><div class="section--transparent column-block content__gutenberg">
 <h2 class="wp-block-heading">Who is The Swiss Institute for Medical Education?</h2>
@@ -148,7 +148,7 @@
 
 
 <p>As a next step the mapping of the procedures has to be discussed and approved by the different specialty societies to allow the documentation using SNOMED CT. In the future new procedures should directly be defined by using SNOMED CT.</p>
-<p>The post <a href="/ontoserver-website/swiss-elogbook-using-ontoserver-and-snomed-ct/">Swiss eLogbook using Ontoserver and SNOMED CT</a> appeared first on <a href="/ontoserver-website">Ontoserver</a>.</p>
+<p>The post <a href="//swiss-elogbook-using-ontoserver-and-snomed-ct/">Swiss eLogbook using Ontoserver and SNOMED CT</a> appeared first on <a href="/">Ontoserver</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -156,27 +156,27 @@
 			</item>
 		<item>
 		<title>Nictiz providing a National Terminology Server for the Netherlands</title>
-		<link>/ontoserver-website/nictiz-national-terminology-server/</link>
+		<link>//nictiz-national-terminology-server/</link>
 		
 		<dc:creator><![CDATA[Kylynn Loi]]></dc:creator>
 		<pubDate>Tue, 19 Apr 2022 01:42:58 +0000</pubDate>
 				<category><![CDATA[case study]]></category>
-		<guid isPermaLink="false">/ontoserver-website/?p=2223</guid>
+		<guid isPermaLink="false">//?p=2223</guid>
 
 					<description><![CDATA[<p>Nictiz has implemented the National Terminology Server for the Netherlands using Ontoserver to help software vendors and data scientists keep [&#8230;]</p>
-<p>The post <a href="/ontoserver-website/nictiz-national-terminology-server/">Nictiz providing a National Terminology Server for the Netherlands</a> appeared first on <a href="/ontoserver-website">Ontoserver</a>.</p>
+<p>The post <a href="//nictiz-national-terminology-server/">Nictiz providing a National Terminology Server for the Netherlands</a> appeared first on <a href="/">Ontoserver</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Nictiz has implemented the National Terminology Server for the Netherlands using Ontoserver to help software vendors and data scientists keep up-to-date with national terminology content such as SNOMED CT and the Dutch lab code set.</p>
 
 
-<figure class="aligncenter size-large nba-caption-filter transcript__wrapper"><div class="transcript__content"><img decoding="async" width="1024" height="394" alt="" class="wp-image-2226" src="/ontoserver-website/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-1024x394.jpg" srcset="/ontoserver-website/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-1024x394.jpg 1024w, /ontoserver-website/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-300x115.jpg 300w, /ontoserver-website/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-768x296.jpg 768w, /ontoserver-website/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-1920x739.jpg 1920w, /ontoserver-website/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-600x231.jpg 600w, /ontoserver-website/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-250x96.jpg 250w, /ontoserver-website/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-450x173.jpg 450w, /ontoserver-website/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-750x289.jpg 750w, /ontoserver-website/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-385x148.jpg 385w, /ontoserver-website/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-577x222.jpg 577w, /ontoserver-website/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-770x296.jpg 770w, /ontoserver-website/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-1155x444.jpg 1155w, /ontoserver-website/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-1536x591.jpg 1536w, /ontoserver-website/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-2048x788.jpg 2048w, /ontoserver-website/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-260x100.jpg 260w, /ontoserver-website/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-150x58.jpg 150w, /ontoserver-website/wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-350x135.jpg 350w" sizes="(max-width: 1024px) 100vw, 1024px" /></img></div></figure>
+<figure class="aligncenter size-large nba-caption-filter transcript__wrapper"><div class="transcript__content"><img decoding="async" width="1024" height="394" alt="" class="wp-image-2226" src="//wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-1024x394.jpg" srcset="//wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-1024x394.jpg 1024w, //wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-300x115.jpg 300w, //wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-768x296.jpg 768w, //wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-1920x739.jpg 1920w, //wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-600x231.jpg 600w, //wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-250x96.jpg 250w, //wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-450x173.jpg 450w, //wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-750x289.jpg 750w, //wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-385x148.jpg 385w, //wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-577x222.jpg 577w, //wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-770x296.jpg 770w, //wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-1155x444.jpg 1155w, //wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-1536x591.jpg 1536w, //wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-2048x788.jpg 2048w, //wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-260x100.jpg 260w, //wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-150x58.jpg 150w, //wp-content/uploads/2022/04/thomas-bormans-kNmlCjM3apA-unsplash-350x135.jpg 350w" sizes="(max-width: 1024px) 100vw, 1024px" /></img></div></figure>
 
 <div  class="nba-block nba-csiro__column-grid wp-block-nba-csiro-column-grid" data-block-id="nba-csiro__column-grid__ffec5fed-d81d-4cfa-8a24-d8d9cda07b55__9f30cfe2763d655d091ec618725b43cd" data-block-type="nba-csiro__column-grid"><div class="nba-layout"><div class="section--transparent"><div  class="grid__container container__content"><div  class="grid"><div  class="col-1-3  "><div class="section--transparent column-block content__gutenberg">
 <h2 class="wp-block-heading">Who is Nictiz?</h2>
 
 <p><a href="https://www.nictiz.nl/">Nictiz</a> is the Dutch national competence centre for electronic exchange of health and care information. Nictiz maintains standards for the exchange of healthcare information and provides advice for use to healthcare organisations and software vendors. It is also the national release centre for SNOMED CT in the Netherlands.</p>
-<figure class="wp-block-image size-full nba-caption-filter transcript__wrapper"><div class="transcript__content"><img loading="lazy" decoding="async" width="549" height="120" alt="" class="wp-image-2224" src="/ontoserver-website/wp-content/uploads/2022/04/Nictiz-logo-broad1.png" srcset="/ontoserver-website/wp-content/uploads/2022/04/Nictiz-logo-broad1.png 549w, /ontoserver-website/wp-content/uploads/2022/04/Nictiz-logo-broad1-300x66.png 300w, /ontoserver-website/wp-content/uploads/2022/04/Nictiz-logo-broad1-250x55.png 250w, /ontoserver-website/wp-content/uploads/2022/04/Nictiz-logo-broad1-450x98.png 450w, /ontoserver-website/wp-content/uploads/2022/04/Nictiz-logo-broad1-385x84.png 385w, /ontoserver-website/wp-content/uploads/2022/04/Nictiz-logo-broad1-150x33.png 150w, /ontoserver-website/wp-content/uploads/2022/04/Nictiz-logo-broad1-350x77.png 350w" sizes="(max-width: 549px) 100vw, 549px" /></img></div></figure></div></div><div  class="col-1-3  "><div class="section--transparent column-block content__gutenberg">
+<figure class="wp-block-image size-full nba-caption-filter transcript__wrapper"><div class="transcript__content"><img loading="lazy" decoding="async" width="549" height="120" alt="" class="wp-image-2224" src="//wp-content/uploads/2022/04/Nictiz-logo-broad1.png" srcset="//wp-content/uploads/2022/04/Nictiz-logo-broad1.png 549w, //wp-content/uploads/2022/04/Nictiz-logo-broad1-300x66.png 300w, //wp-content/uploads/2022/04/Nictiz-logo-broad1-250x55.png 250w, //wp-content/uploads/2022/04/Nictiz-logo-broad1-450x98.png 450w, //wp-content/uploads/2022/04/Nictiz-logo-broad1-385x84.png 385w, //wp-content/uploads/2022/04/Nictiz-logo-broad1-150x33.png 150w, //wp-content/uploads/2022/04/Nictiz-logo-broad1-350x77.png 350w" sizes="(max-width: 549px) 100vw, 549px" /></img></div></figure></div></div><div  class="col-1-3  "><div class="section--transparent column-block content__gutenberg">
 <h2 class="wp-block-heading">The Challenge</h2>
 
 <p>As Nictiz needs to manage multiple code systems such as LOINC, SNOMED, GMDN&nbsp;, ICD10 and a whole host of national code systems, as well as a multiple value sets required for implementing healthcare information models correctly, Nictiz needed a way to centralise knowledge and allow end users to easily find and implement these resources.</p>
@@ -204,7 +204,7 @@
 
 
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>&#8220;Centralising the knowledge and transforming resources to FHIR is an enormous timesaver for implementers. End users no longer have to sift through all the different release formats, and can instead focus on the terminology models of FHIR for all resources&#8211; reducing the threshold for implementation of terminology and making it easier for users to stay up to date.&#8221;</p></blockquote>
-<p>The post <a href="/ontoserver-website/nictiz-national-terminology-server/">Nictiz providing a National Terminology Server for the Netherlands</a> appeared first on <a href="/ontoserver-website">Ontoserver</a>.</p>
+<p>The post <a href="//nictiz-national-terminology-server/">Nictiz providing a National Terminology Server for the Netherlands</a> appeared first on <a href="/">Ontoserver</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -212,21 +212,21 @@
 			</item>
 		<item>
 		<title>Australia&#8217;s National Clinical Terminology Service: A world first national implementation of Ontoserver</title>
-		<link>/ontoserver-website/national-clinical-terminology-service/</link>
+		<link>//national-clinical-terminology-service/</link>
 		
 		<dc:creator><![CDATA[Kylynn Loi]]></dc:creator>
 		<pubDate>Thu, 14 Apr 2022 01:57:39 +0000</pubDate>
 				<category><![CDATA[case study]]></category>
-		<guid isPermaLink="false">/ontoserver-website/?p=2198</guid>
+		<guid isPermaLink="false">//?p=2198</guid>
 
 					<description><![CDATA[<p>Ontoserver is the foundation of the Australian Digital Health Agency’s National Clinical Terminology Service (NCTS).&#160; “…we know that having meaningful [&#8230;]</p>
-<p>The post <a href="/ontoserver-website/national-clinical-terminology-service/">Australia&#8217;s National Clinical Terminology Service: A world first national implementation of Ontoserver</a> appeared first on <a href="/ontoserver-website">Ontoserver</a>.</p>
+<p>The post <a href="//national-clinical-terminology-service/">Australia&#8217;s National Clinical Terminology Service: A world first national implementation of Ontoserver</a> appeared first on <a href="/">Ontoserver</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Ontoserver is the foundation of the Australian Digital Health Agency’s National Clinical Terminology Service (NCTS).&nbsp;</p>
 
 
-<figure class="aligncenter size-large nba-caption-filter transcript__wrapper"><div class="transcript__content"><img loading="lazy" decoding="async" width="1024" height="253" alt="" class="wp-image-2207" src="/ontoserver-website/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-1024x253.jpg" srcset="/ontoserver-website/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-1024x253.jpg 1024w, /ontoserver-website/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-300x74.jpg 300w, /ontoserver-website/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-768x190.jpg 768w, /ontoserver-website/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-1920x475.jpg 1920w, /ontoserver-website/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-600x149.jpg 600w, /ontoserver-website/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-250x62.jpg 250w, /ontoserver-website/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-450x111.jpg 450w, /ontoserver-website/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-750x186.jpg 750w, /ontoserver-website/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-385x95.jpg 385w, /ontoserver-website/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-577x143.jpg 577w, /ontoserver-website/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-770x191.jpg 770w, /ontoserver-website/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-1155x286.jpg 1155w, /ontoserver-website/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-1536x380.jpg 1536w, /ontoserver-website/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-2048x507.jpg 2048w, /ontoserver-website/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-150x37.jpg 150w, /ontoserver-website/wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-350x87.jpg 350w" sizes="(max-width: 1024px) 100vw, 1024px" /></img></div></figure>
+<figure class="aligncenter size-large nba-caption-filter transcript__wrapper"><div class="transcript__content"><img loading="lazy" decoding="async" width="1024" height="253" alt="" class="wp-image-2207" src="//wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-1024x253.jpg" srcset="//wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-1024x253.jpg 1024w, //wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-300x74.jpg 300w, //wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-768x190.jpg 768w, //wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-1920x475.jpg 1920w, //wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-600x149.jpg 600w, //wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-250x62.jpg 250w, //wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-450x111.jpg 450w, //wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-750x186.jpg 750w, //wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-385x95.jpg 385w, //wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-577x143.jpg 577w, //wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-770x191.jpg 770w, //wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-1155x286.jpg 1155w, //wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-1536x380.jpg 1536w, //wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-2048x507.jpg 2048w, //wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-150x37.jpg 150w, //wp-content/uploads/2022/04/ondrej-machart-WEtXkeIlMoM-unsplash-350x87.jpg 350w" sizes="(max-width: 1024px) 100vw, 1024px" /></img></div></figure>
 
 <div  class="nba-block nba-csiro__column-grid wp-block-nba-csiro-column-grid" data-block-id="nba-csiro__column-grid__9f6b84a2-037a-40cd-b483-163bec4f8e4c__9f30cfe2763d655d091ec618725b43cd" data-block-type="nba-csiro__column-grid"><div class="nba-layout"><div class="section--transparent"><div  class="grid__container container__content"><div  class="grid"><div  class="col-1-3  "><div class="section--transparent column-block content__gutenberg">
 <h2 class="wp-block-heading">What is the NCTS?&nbsp;</h2>
@@ -264,9 +264,9 @@
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow"><p>“The CSIRO/NCTS collaboration is seen as a model for development by other SNOMED national release centres. The product produced was world class and has certainly drawn significant global attention.”&nbsp;</p></blockquote>
 
 
-<figure class="wp-block-image size-large nba-caption-filter transcript__wrapper"><div class="transcript__content"><img loading="lazy" decoding="async" width="1024" height="576" alt="" class="wp-image-2203" src="/ontoserver-website/wp-content/uploads/2022/04/ncts3-1024x576.png" srcset="/ontoserver-website/wp-content/uploads/2022/04/ncts3-1024x576.png 1024w, /ontoserver-website/wp-content/uploads/2022/04/ncts3-300x169.png 300w, /ontoserver-website/wp-content/uploads/2022/04/ncts3-768x432.png 768w, /ontoserver-website/wp-content/uploads/2022/04/ncts3.png 1920w, /ontoserver-website/wp-content/uploads/2022/04/ncts3-600x338.png 600w, /ontoserver-website/wp-content/uploads/2022/04/ncts3-250x141.png 250w, /ontoserver-website/wp-content/uploads/2022/04/ncts3-450x253.png 450w, /ontoserver-website/wp-content/uploads/2022/04/ncts3-750x422.png 750w, /ontoserver-website/wp-content/uploads/2022/04/ncts3-385x217.png 385w, /ontoserver-website/wp-content/uploads/2022/04/ncts3-577x325.png 577w, /ontoserver-website/wp-content/uploads/2022/04/ncts3-770x433.png 770w, /ontoserver-website/wp-content/uploads/2022/04/ncts3-1155x650.png 1155w, /ontoserver-website/wp-content/uploads/2022/04/ncts3-1536x864.png 1536w, /ontoserver-website/wp-content/uploads/2022/04/ncts3-178x100.png 178w, /ontoserver-website/wp-content/uploads/2022/04/ncts3-150x84.png 150w, /ontoserver-website/wp-content/uploads/2022/04/ncts3-350x197.png 350w" sizes="(max-width: 1024px) 100vw, 1024px" /></img></div></figure>
+<figure class="wp-block-image size-large nba-caption-filter transcript__wrapper"><div class="transcript__content"><img loading="lazy" decoding="async" width="1024" height="576" alt="" class="wp-image-2203" src="//wp-content/uploads/2022/04/ncts3-1024x576.png" srcset="//wp-content/uploads/2022/04/ncts3-1024x576.png 1024w, //wp-content/uploads/2022/04/ncts3-300x169.png 300w, //wp-content/uploads/2022/04/ncts3-768x432.png 768w, //wp-content/uploads/2022/04/ncts3.png 1920w, //wp-content/uploads/2022/04/ncts3-600x338.png 600w, //wp-content/uploads/2022/04/ncts3-250x141.png 250w, //wp-content/uploads/2022/04/ncts3-450x253.png 450w, //wp-content/uploads/2022/04/ncts3-750x422.png 750w, //wp-content/uploads/2022/04/ncts3-385x217.png 385w, //wp-content/uploads/2022/04/ncts3-577x325.png 577w, //wp-content/uploads/2022/04/ncts3-770x433.png 770w, //wp-content/uploads/2022/04/ncts3-1155x650.png 1155w, //wp-content/uploads/2022/04/ncts3-1536x864.png 1536w, //wp-content/uploads/2022/04/ncts3-178x100.png 178w, //wp-content/uploads/2022/04/ncts3-150x84.png 150w, //wp-content/uploads/2022/04/ncts3-350x197.png 350w" sizes="(max-width: 1024px) 100vw, 1024px" /></img></div></figure>
 
-<div  class="nba-block nba-csiro__column-grid wp-block-nba-csiro-column-grid" data-block-id="nba-csiro__column-grid__fddde3d0-492a-439f-9b9f-c15305a154a0__9f30cfe2763d655d091ec618725b43cd" data-block-type="nba-csiro__column-grid"><div class="nba-layout"><div class="section--transparent"><div  class="grid__container container__content"><div  class="grid"><div  class="col-1-3  "></div><div  class="col-1-3  "></div><div  class="col-1-3  "><div class="section--transparent column-block content__gutenberg"><figure class="wp-block-image size-medium nba-caption-filter transcript__wrapper"><div class="transcript__content"><img loading="lazy" decoding="async" width="300" height="300" alt="2017 iAward" class="wp-image-385" src="/ontoserver-website/wp-content/uploads/2021/11/Winner-QLD-300x300.png" srcset="/ontoserver-website/wp-content/uploads/2021/11/Winner-QLD-300x300.png 300w, /ontoserver-website/wp-content/uploads/2021/11/Winner-QLD-1024x1024.png 1024w, /ontoserver-website/wp-content/uploads/2021/11/Winner-QLD-150x150.png 150w, /ontoserver-website/wp-content/uploads/2021/11/Winner-QLD-768x768.png 768w, /ontoserver-website/wp-content/uploads/2021/11/Winner-QLD-1536x1536.png 1536w, /ontoserver-website/wp-content/uploads/2021/11/Winner-QLD-2048x2048.png 2048w, /ontoserver-website/wp-content/uploads/2021/11/Winner-QLD-256x256.png 256w, /ontoserver-website/wp-content/uploads/2021/11/Winner-QLD-384x384.png 384w, /ontoserver-website/wp-content/uploads/2021/11/Winner-QLD-512x512.png 512w, /ontoserver-website/wp-content/uploads/2021/11/Winner-QLD-100x100.png 100w, /ontoserver-website/wp-content/uploads/2021/11/Winner-QLD-250x250.png 250w, /ontoserver-website/wp-content/uploads/2021/11/Winner-QLD-350x350.png 350w" sizes="(max-width: 300px) 100vw, 300px" /></img></div></figure></div></div></div></div></div></div></div><p>The post <a href="/ontoserver-website/national-clinical-terminology-service/">Australia&#8217;s National Clinical Terminology Service: A world first national implementation of Ontoserver</a> appeared first on <a href="/ontoserver-website">Ontoserver</a>.</p>
+<div  class="nba-block nba-csiro__column-grid wp-block-nba-csiro-column-grid" data-block-id="nba-csiro__column-grid__fddde3d0-492a-439f-9b9f-c15305a154a0__9f30cfe2763d655d091ec618725b43cd" data-block-type="nba-csiro__column-grid"><div class="nba-layout"><div class="section--transparent"><div  class="grid__container container__content"><div  class="grid"><div  class="col-1-3  "></div><div  class="col-1-3  "></div><div  class="col-1-3  "><div class="section--transparent column-block content__gutenberg"><figure class="wp-block-image size-medium nba-caption-filter transcript__wrapper"><div class="transcript__content"><img loading="lazy" decoding="async" width="300" height="300" alt="2017 iAward" class="wp-image-385" src="//wp-content/uploads/2021/11/Winner-QLD-300x300.png" srcset="//wp-content/uploads/2021/11/Winner-QLD-300x300.png 300w, //wp-content/uploads/2021/11/Winner-QLD-1024x1024.png 1024w, //wp-content/uploads/2021/11/Winner-QLD-150x150.png 150w, //wp-content/uploads/2021/11/Winner-QLD-768x768.png 768w, //wp-content/uploads/2021/11/Winner-QLD-1536x1536.png 1536w, //wp-content/uploads/2021/11/Winner-QLD-2048x2048.png 2048w, //wp-content/uploads/2021/11/Winner-QLD-256x256.png 256w, //wp-content/uploads/2021/11/Winner-QLD-384x384.png 384w, //wp-content/uploads/2021/11/Winner-QLD-512x512.png 512w, //wp-content/uploads/2021/11/Winner-QLD-100x100.png 100w, //wp-content/uploads/2021/11/Winner-QLD-250x250.png 250w, //wp-content/uploads/2021/11/Winner-QLD-350x350.png 350w" sizes="(max-width: 300px) 100vw, 300px" /></img></div></figure></div></div></div></div></div></div></div><p>The post <a href="//national-clinical-terminology-service/">Australia&#8217;s National Clinical Terminology Service: A world first national implementation of Ontoserver</a> appeared first on <a href="/">Ontoserver</a>.</p>
 ]]></content:encoded>
 					
 		
